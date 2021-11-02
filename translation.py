@@ -1,5 +1,15 @@
 class Translation(object):
-    START_TEXT = """"""
+    START_TEXT = """
+<b>Hey {} </b>
+
+<b>I am Telegram Most Powerful Url Uploader Bot</b>
+
+<b>I can Upload Any Link in File or Video</b>
+
+<b>Use Help Command to Know How to Use me</b>
+
+<b>Made With 💕 By </b><b>@Tellybots_4u</b>
+"""
     RENAME_403_ERR = "Sorry. You are not permit"
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Contact @shreevish for Details"
