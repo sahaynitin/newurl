@@ -1,23 +1,6 @@
 class Translation(object):
-    START_TEXT = """Hello,
-i am Telegram URL Upload Bot! Created by @shreevish
-
-Please send me any direct download URL Link, i can upload to telegram as File/Video
-
- 🚨 . . . Note : its support almost all direct Url's except torrent link & some links . . . 🚨
- 
-🚨 PRON video🔞 Links gives you PERMANENT BAN 🚨
-
-       ┈┈┈••💙✿❤️✿💚••┈┈┈
-       
-URL-UPLOADER bot created by @shreevish
-
-➼/start = To Check whether the bot is alive or not
-➼/help = To Know how to use me! 
-➼/about = To know what am I !
-
-⚠️Note :- Join My Channel before paste the link"""
-    RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
+    START_TEXT = """"""
+    RENAME_403_ERR = "Sorry. You are not permit"
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Contact @shreevish for Details"
     FORMAT_SELECTION = """📭 𝗦𝗲𝗹𝗲𝗰𝘁 𝗔𝗻𝗱 𝗖𝗵𝗼𝘀𝗲 𝗬𝗼𝘂𝗿 𝗙𝗼𝗿𝗺𝗮𝘁👇
